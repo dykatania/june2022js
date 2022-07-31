@@ -36,25 +36,34 @@ let kobzar1 = {
     title: 'Kobzar',
     pageCount: 300,
     genre: 'Poetry',
-    authors: {
-        name: 'Taras Shevchenko',
-        age: 47}
+    authors: [
+        {
+            name: 'Taras Shevchenko',
+            age: 47
+        }
+    ]
 };
 let tiger1 = {
     title: 'Tiger Trappers',
     pageCount: 277,
     genre: 'Adventure novel',
-    authors: {
-        name: 'Ivan Bahrianyi',
-    age: 56}
+    authors: [
+        {
+            name: 'Ivan Bahrianyi',
+            age: 56
+        }
+    ]
 };
 let orwell1 = {
     title: '1984',
     pageCount: 324,
     genre: 'Dystopian',
-    authors: {
-        name: 'George Orwell',
-    age: 46}
+    authors: [
+        {
+            name: 'George Orwell',
+            age: 46
+        }
+    ]
 };
 
 // - Створити масив з 10 об'єктами які описують сутніть "користувач". Поля: name, username,password. Вивести в консоль пароль кожного користувача
