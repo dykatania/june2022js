@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73f337ec-bc19-4c93-9350-b4fb624e3fb4" name="Changes" comment="homework 2 js">
-      <change afterPath="$PROJECT_DIR$/homework3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3/main.js" afterDir="false" />
+    <list default="true" id="73f337ec-bc19-4c93-9350-b4fb624e3fb4" name="Changes" comment="homework 3 js">
+      <change afterPath="$PROJECT_DIR$/homework3/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework3/taska.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +51,8 @@
       <updated>1658504605088</updated>
       <workItem from="1658504607743" duration="8067000" />
       <workItem from="1658914442837" duration="4291000" />
-      <workItem from="1658918824655" duration="8183000" />
+      <workItem from="1658918824655" duration="9174000" />
+      <workItem from="1659387820590" duration="3456000" />
     </task>
     <task id="LOCAL-00001" summary="homework 1 js">
       <created>1658518017683</created>
@@ -74,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659261965398</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="homework 3 js">
+      <created>1659269521534</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1659269521534</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,6 +102,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="homework 1 js" />
     <MESSAGE value="homework 2 js" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework 2 js" />
+    <MESSAGE value="homework 3 js" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework 3 js" />
   </component>
 </project>
