@@ -70,14 +70,59 @@ if (js === 'ECMAScript') {
 //Користувач вводить номер квартири просто в змінні або через prompt('') .
  //   Програма повинна зазначити, в якому під'їзді знаходиться дана квартира.
 
+let apartment = +prompt('Write num of your apartments');
+
+if (apartment >= 1 && apartment <=20) {
+    console.log('First entrance');
+} else if (apartment > 20 && apartment <= 48) {
+    console.log('Second entrance');
+} else if (apartment > 48 && apartment <= 90) {
+    console.log('Third entrance');
+} else {
+    console.log('Change your choice');
+}
 
 //- Ми маємо змінну number в яку користувач задає числове значення,  якщо змінна рівна 10 вивести повідомлення ВІРНО, якщо змінна не рівна 10 - тоді НЕВІРНО
 
+let number = +prompt('Write a num');
+
+if (number === 10) {
+    console.log('ВІРНО');
+} else {
+    console.log('НЕВІРНО');
+}
 
 //- Задача-гра "чи ми йдемо сьогодні в OKTEN на навчання?".
 //    Змінна, яка характеризує температуру. Якщо температура від +10 до +22 вивести повідомлення що ми йдемо ВЧИТИСЯ .
  //   Якщо інша темпаретура, тоді виводимо повідомлення що сидимо вдома і вчимося ОНЛАЙН
 
+let temperature = +prompt('What temperature is outside?');
+let weather = temperature <= 22 && temperature >= 10 ? 'йдемо сьогодні в OKTEN на навчання' : 'сидимо вдома і вчимося ОНЛАЙН';
+
+console.log(weather);
 
 //- За допомогою switch case - реалізувати гру - вікторину, де ми вводимо число від 1 до 5. І взалежності від введеного
 //    числа нам дається приз. (Авто, Мото, Телефон, і т.д ) і якщо число не підходить тоді  вивести Повідомлення - що число не вірне ... .
+
+let victory = +prompt('Write num from 1 to 5');
+console.log(victory);
+
+    switch (victory) {
+        case 1 :
+            console.log('Volkswagen Passat');
+            break;
+        case 2 :
+            console.log('Yamaha');
+            break;
+        case 3 :
+            console.log('Iphone 1');
+            break;
+        case 4 :
+            console.log('Book');
+            break;
+        case 5 :
+            console.log('Toyota RAV4');
+            break;
+        default :
+            console.log('Error228');
+    }
