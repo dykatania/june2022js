@@ -1,0 +1,33 @@
+div {
+    display: flex;
+
+}
+
+h1 {
+    display: flex;
+}
+
+body {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 300px;
+    overflow: hidden;
+}
+
+.product-card {
+    display: block;
+    box-sizing: border-box;
+    border: 3px solid #4d4d4d;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+
+    background-color: #fff8e1;
+    width: 200px;
+    height: 100%;
+}
+
+.product-image {
+    width: 150px
+}
