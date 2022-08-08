@@ -164,7 +164,6 @@
 let num = [
     1, 2, 3, 4, 5
 ];
-
 function sum(array) {
     let x = array[0];
     let res1 = x + array[i];
