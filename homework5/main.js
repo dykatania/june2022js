@@ -161,16 +161,17 @@
 
 // - створити функцію яка приймає масив чисел, сумує значення елементів масиву та повертає його. Приклад [1,2,10]->13
 
-let num = [
-    1, 2, 3, 4, 5
-];
-function sum(array) {
-    let x = array[0];
-    let res1 = x + array[i];
-    for (i = 1; i <= array.length; i++) {
-        let res2 = res1 + array[i++];
-    }
-    console.log(res2);
-}
-
-sum(num);
+// let num = [
+//     1, 2, 3, 4, 5
+// ];
+// function sum(array) {
+//     let x = array[0];
+//     let res1 = x + array[i];
+//     for (i = 1; i <= array.length; i++) {
+//         let res2 = res1 + array[i++];
+//     }
+//
+//     console.log(res2);
+// }
+//
+// sum(num);
