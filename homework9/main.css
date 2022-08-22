@@ -1,0 +1,21 @@
+
+.target {
+   display: flex;
+    justify-content: space-between;
+}
+
+.box {
+    width: 200px;
+
+}
+
+.box > img {
+    width: 100%;
+}
+
+.alpha {
+    background-color: cornflowerblue;
+    width: 300px;
+    height: 300px;
+
+}

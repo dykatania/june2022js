@@ -51,16 +51,16 @@
 // }
 //
 // clients.push(
-//     new Client('0', 'Olena', 'Leleka', 'leleka@gmail.com', +380999999999, ['horilka', 'cider']),
-//     new Client('1', 'Bohdan', 'Tkhir', 'tkhir@gmail.com', +380988888888, ['sour beer', 'lager beer', 'stout beer']),
-//     new Client('2', 'Sasha', 'Borsuk', 'borsuk@gmail.com', +380977777777, ['horilka', 'non alk beer', 'cider']),
-//     new Client('3', 'Glib', 'Shchur', 'shchur@gmail.com', +380966666666, ['non alk beer']),
-//     new Client('4', 'Yura', 'Kohut', 'kohut@gmail.com', +380955555555, ['lager beer', 'stout beer']),
-//     new Client('5', 'Olya', 'Kril', 'kril@gmail.com', +380944444444, ['non alk beer', 'cider']),
-//     new Client('6', 'Mary', 'Ursul', 'ursul@gmail.com', +380933333333, ['horilka', 'non alk beer', 'cider', 'stout beer']),
-//     new Client('7', 'Tania', 'Dyka', 'dyka@gmail.com', +380922222222, ['non alk beer', 'cider', 'sour beer']),
-//     new Client('8', 'Yevhenia', 'Borsuk', 'borsuchka@gmail.com', +380911111111, ['non alk beer']),
-//     new Client('9', 'Liubomyr', 'Lola', 'lola@gmail.com', +380900000000, ['horilka', 'cider']),
+//     new Client(0, 'Olena', 'Leleka', 'leleka@gmail.com', +380999999999, ['horilka', 'cider']),
+//     new Client(1, 'Bohdan', 'Tkhir', 'tkhir@gmail.com', +380988888888, ['sour beer', 'lager beer', 'stout beer']),
+//     new Client(2, 'Sasha', 'Borsuk', 'borsuk@gmail.com', +380977777777, ['horilka', 'non alk beer', 'cider']),
+//     new Client(3, 'Glib', 'Shchur', 'shchur@gmail.com', +380966666666, ['non alk beer']),
+//     new Client(4, 'Yura', 'Kohut', 'kohut@gmail.com', +380955555555, ['lager beer', 'stout beer']),
+//     new Client(5, 'Olya', 'Kril', 'kril@gmail.com', +380944444444, ['non alk beer', 'cider']),
+//     new Client(6, 'Mary', 'Ursul', 'ursul@gmail.com', +380933333333, ['horilka', 'non alk beer', 'cider', 'stout beer']),
+//     new Client(7, 'Tania', 'Dyka', 'dyka@gmail.com', +380922222222, ['non alk beer', 'cider', 'sour beer']),
+//     new Client(8, 'Yevhenia', 'Borsuk', 'borsuchka@gmail.com', +380911111111, ['non alk beer']),
+//     new Client(9, 'Liubomyr', 'Lola', 'lola@gmail.com', +380900000000, ['horilka', 'cider']),
 // );
 //
 // console.log(clients);
