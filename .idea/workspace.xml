@@ -2,13 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73f337ec-bc19-4c93-9350-b4fb624e3fb4" name="Changes" comment="homework 5 js">
-      <change afterPath="$PROJECT_DIR$/additional6/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/additional6/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework9/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework9/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework9/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mini_project/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mini_project/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mini_project/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mini_project/post-details.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mini_project/post-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mini_project/post-details.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mini_project/user-details.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mini_project/user-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mini_project/user-details.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework8/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework8/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,15 +39,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -64,7 +68,7 @@
       <workItem from="1659943209035" duration="15765000" />
       <workItem from="1659959316263" duration="813000" />
       <workItem from="1660123497008" duration="17044000" />
-      <workItem from="1660635134445" duration="32427000" />
+      <workItem from="1660635134445" duration="69393000" />
     </task>
     <task id="LOCAL-00001" summary="homework 1 js">
       <created>1658518017683</created>
@@ -157,7 +161,21 @@
       <option name="project" value="LOCAL" />
       <updated>1660741344068</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="homework 5 js">
+      <created>1661179716678</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1661179716678</updated>
+    </task>
+    <task id="LOCAL-00015" summary="homework 5 js">
+      <created>1661179725342</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1661179725342</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
