@@ -12,6 +12,7 @@ document.body.appendChild(div);
 
 fetch(`https://jsonplaceholder.typicode.com/posts/${post}`)
 
+
     .then((response) => {
         return response.json();
     })
